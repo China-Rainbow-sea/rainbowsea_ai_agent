@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: rainbowsea_image_search_mcp_server
+  profiles:
+    active: sse
+server:
+  port: 8127

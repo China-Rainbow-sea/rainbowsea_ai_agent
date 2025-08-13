@@ -1,0 +1,9 @@
+spring:
+  ai:
+    mcp:
+      server:
+        name: rainbowsea_image_search_mcp_server
+        version: 0.0.1
+        type: SYNC
+        # sse
+        stdio: false
